@@ -25,7 +25,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
@@ -48,11 +48,11 @@ global.socialm = "GitHub: RyanStore" //ur github or insta name
 global.location = "Indonesia, JawaBarat, Bandung" //ur location
 
 //bot bombdy
-global.botname = "YanZBotZ" //ur bot name
+global.botname = "Executed BotZ" //ur bot name
 global.websitex = "https://instagram.com/ryannn.store" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Yannnnn Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "YannXd404"
+global.author = "Yann-404"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6282252285143'] //ur owner tag
